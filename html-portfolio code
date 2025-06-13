@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Hi, I'm Suraj 👋</h1>
+  <p>I’m a student passionate about coding and creativity.</p>
+
+  <h2>📂 Projects</h2>
+  <ul>
+    <li>Notion Study Planner</li>
+    <li>CodeMeUp Blog</li>
+    <li>Simple Calculator (Coming soon)</li>
+  </ul>
+
+  <h2>📞 Contact</h2>
+  <p>Email: yourname@example.com</p>
+  <p>Instagram: @yourhandle</p>
+</body>
+</html>
